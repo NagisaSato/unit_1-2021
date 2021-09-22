@@ -22,7 +22,7 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 3. The game must record the player name and score.
 4. Display rankings; name of player and score
 5. Checkpoint for saving the progress of the player
-6. Add time limit 
+6. Add time limit of 30 mins
 
 # Criteria B: Design
 
