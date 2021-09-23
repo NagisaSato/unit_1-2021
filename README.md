@@ -3,8 +3,6 @@
 
 # Criteria A: Planning
 
-## Design statement
-I will try to design and make a ———— for a client who is ———. The ——– will be made in the ———— and is constructed using the software ———. It will take  ———- to make and will be evaluated according to the criteria ———.
 
 
 ## Problem definition
@@ -15,6 +13,11 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
 ## Proposed Solution
+
+
+### Design statement
+I will try to design and make a game for a client who is the owner of the local game shop. The game will be a escape game and is constructed using the software python. It will take 3 weeks to make and will be evaluated according to the criteria A and B.
+
 
 ## Success Criteria
 1. The game has to be entirely text-based.
