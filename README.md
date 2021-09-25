@@ -16,7 +16,9 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 
 
 ### Design statement
-I will try to design and make a game for a client who is the owner of the local game shop. The game will be a escape game and is constructed using the software python. It will take 3 weeks to make and will be evaluated according to the criteria A and B.
+I will try to design and make a game for a client who is the owner of the local game shop. The game will be a escape game and is constructed using the software python 3.10. It will take 3 weeks to make and will be evaluated according to the criteria A and B.
+
+This game is created using python because it is the only language I am familiar with thus it is one of the most commonly used programming language in the world.
 
 
 ## Success Criteria
