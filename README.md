@@ -32,6 +32,7 @@ This game is created using python because it is the only language I am familiar 
 # Criteria B: Design
 
 ## System Diagram
+![](system_diagram1.jpg)
 
 ## Flow Diagrams
 
