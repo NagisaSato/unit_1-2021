@@ -33,12 +33,14 @@ This game is created using python because it is the only language I am familiar 
 
 ## System Diagram
 ![](system_diagram1.jpg)
+Figure 1. system diagram for the game
+*explain what i see in figure 1 2-3 sentences 
 
 ## Flow Diagrams
 
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
-|         |                |                 |               |                        |           |
+|    1     |                |                 |               |                        |           |
 |         |                |                 |               |                        |           |
 |         |                |                 |               |                        |           |
