@@ -42,5 +42,16 @@ Figure 1. system diagram for the game
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
 |    1     |       create system siagram         |       to have a clear idea of the hardware and software requirements for the proposed solution       |         20mins        |             Sep 24            |      B     |
-|         |                |                 |               |                        |           |
-|         |                |                 |               |                        |           |
+|    2     |                |                 |               |                        |           |
+|    3     |                |                 |               |                        |           |
+|    4     |                |                 |               |                        |           |
+|    5     |       unit test: function for encoding with the caesar sypher         |         to check that the function worls as expected. Test with input "nagisa" and key = 3. The outcome should be "qdjlvd"        |        30 mins       |            Oct 7            |      E     |
+|    6     |                |                 |               |                        |           |
+|    7     |                |                 |               |                        |           |
+|    8     |                |                 |               |                        |           |
+|    9     |                |                 |               |                        |           |
+|    10     |                |                 |               |                        |           |
+|    11    |                |                 |               |                        |           |
+|    12    |                |                 |               |                        |           |
+|    13     |                |                 |               |                        |           |
+
