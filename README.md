@@ -41,6 +41,6 @@ Figure 1. system diagram for the game
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
-|    1     |                |                 |               |                        |           |
+|    1     |       create system siagram         |       20mins          |       Sep 24        |                        |           |
 |         |                |                 |               |                        |           |
 |         |                |                 |               |                        |           |
