@@ -53,19 +53,19 @@ This is the flow chart of the recording of the data, name and time taken for use
 ***** the scenario of the game is set as stop and clean time, 13:10, and the program displays the time taken, as well as the time in reference to 13:10
 
 ## Record of Tasks
-| Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
-|---------|----------------|-----------------|---------------|------------------------|-----------|
-|    1     |       create system siagram         |       to have a clear idea of the hardware and software requirements for the proposed solution       |         20mins        |             Sep 24            |      B     |
-|    2     |                |                 |               |                        |           |
-|    3     |                |                 |               |                        |           |
-|    4     |                |                 |               |                        |           |
-|    5     |       unit test: function for encoding with the caesar sypher         |         to check that the function worls as expected. Test with input "nagisa" and key = 3. The outcome should be "qdjlvd"        |        30 mins       |            Oct 7            |      E     |
-|    6     |                |                 |               |                        |           |
-|    7     |                |                 |               |                        |           |
-|    8     |                |                 |               |                        |           |
-|    9     |                |                 |               |                        |           |
-|    10     |                |                 |               |                        |           |
-|    11    |                |                 |               |                        |           |
-|    12    |                |                 |               |                        |           |
-|    13     |                |                 |               |                        |           |
+| Task No |               Planned Action               |                                                    Planned Outcome                                                    | Time estimate | Target completion date | Criterion |
+|:-------:|:------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-------------:|:----------------------:|:---------:|
+| 1       | create system diagram                      | to have a clear idea of the hardware and software requirements for the proposed solution                              | 20mins        | Sep 24                 | B         |
+| 2       | Plan problem definition                    | The client is identified, and the reason for the program development is described.                                    | 30mins        | Oct 1                  | A         |
+| 3       | Proposed solution rationale                | The design statement is clearly identified with justification for the decisions made for the creation of the program. | 30mins        | Oct 2                  | A         |
+| 4       | Success criteria                           | Have six factors that determine the success of the final product                                                      | 30mins        | Oct 5                  | A         |
+| 5       | Paste all Criteria A information on GitHub | All three areas of Criteria A is posted on GitHub, in the correct location                                            | 30 mins       | Oct 5                  | A         |
+| 6       | Plan MVP                                   | Have concrete plan on which section of game will be used as MVP                                                       | 10 mins       | Oct 15                 | B         |
+| 7       | Code MVP                                   | Program and complete the MVP, then test MVP until functional                                                          | 120 mins      | Oct 17 - Oct 21        | B         |
+| 8       | Draw Flow diagram                          | Have three flow diagrams posted on Github                                                                             | 60 mins       | Oct 22                 |           |
+| 9       | Film 3 minute video on MVP                 | Have a detailed explanation video about the MVP                                                                       |               |                        |           |
+| 10      |                                            |                                                                                                                       |               |                        |           |
+| 11      |                                            |                                                                                                                       |               |                        |           |
+| 12      |                                            |                                                                                                                       |               |                        |           |
+|         |                                            |   
 
