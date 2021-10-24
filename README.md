@@ -39,6 +39,10 @@ The system will be based on Mac OS 10.15.6 with Dual-Core Intel Core i3. This ga
 
 
 ## Flow Diagrams
+![](flowchart1.jpg)
+![](flowchart2.jpg)
+![](flowchart3.jpg)
+
 
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
