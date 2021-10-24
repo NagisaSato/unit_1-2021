@@ -16,7 +16,7 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 
 
 ### Design statement
-I will try to design and make a game for a client who is the owner of the local game shop. The game will be a escape game and is constructed using the software python 3.10. It will take 3 weeks to make and will be evaluated according to the criteria A and B.
+I will try to design and make a game for a client who is the owner of the local game shop. The game will be a escape game and is constructed using the software python 3.9. It will take 3 weeks to make and will be evaluated according to the criteria A and B.
 
 This game is created using python because it is the only language I am familiar with thus it is one of the most commonly used programming language in the world.
 
@@ -34,7 +34,9 @@ This game is created using python because it is the only language I am familiar 
 ## System Diagram
 ![](system_diagram1.jpg)
 Figure 1. system diagram for the game
-*explain what i see in figure 1 2-3 sentences 
+
+The system will be based on Mac OS 10.15.6 with Dual-Core Intel Core i3. This game will be created on python 3.9, where input will be from keyboard and output generated as text on screen monitor. 
+
 
 ## Flow Diagrams
 
