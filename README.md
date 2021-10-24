@@ -40,9 +40,17 @@ The system will be based on Mac OS 10.15.6 with Dual-Core Intel Core i3. This ga
 
 ## Flow Diagrams
 ![](flowchart1.jpg)
-![](flowchart2.jpg)
-![](flowchart3.jpg)
+Flow chart 1:
+This is the flow chart for the confirm input system, where, the users' name, grade and advisor are asked and confirmed to ensure accuracy in the input of information.
 
+![](flowchart2.jpg)
+Flow chart 2:
+This is the flow chart of the beginning of the game, where the player is asked two locational option to preceed into. Here, one option leads to an immediate game ending, and the other proceeds to picking up items and filling the inventory.
+
+![](flowchart3.jpg)
+Flow chart 3:
+This is the flow chart of the recording of the data, name and time taken for user to complete the game. Additionally, it determines whether the player has completed the game in time or not. The data is printed in an external file. 
+***** the scenario of the game is set as stop and clean time, 13:10, and the program displays the time taken, as well as the time in reference to 13:10
 
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
