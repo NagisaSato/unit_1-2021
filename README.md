@@ -16,9 +16,13 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 
 
 ### Design statement
-I will try to design and make a game for a client who is the owner of the local game shop. The game will be a escape game and is constructed using the software python 3.9. It will take 3 weeks to make and will be evaluated according to the criteria A and B.
+I will try to design and make a game for a client who is the owner of the local game shop. The game will be an escape game and is constructed using the software python 3.10. It will take 3 weeks to make and will be evaluated according to the criteria A and B.
 
-This game is created using python because it is the only language I am familiar with thus it is one of the most commonly used programming language in the world.
+## Justification 
+This game is created using python because it is the only language I am familiar with, thus it is one of the most commonly used programming languages in the world. The game will be based on Mac OS, with an application called Pycharm. Pycharm was chosen to be used for this project because I am familiar with the application, and is one of the most used coding applications in the world. Pycharm is beginner-friendly in which the errors are clearly identified and highlighted. In addition, Pycharm processes are quick and efficient and therefore increases productivity and speed of my work. 
+ 
+## Details
+This game is an entirely text-based adventure game, in which the goal of the player is to escape the ISAK KAC building without getting caught by anyone. The player is meant to make appropriate decisions throughout the game to complete the game. The game will provide an inventory system where players are able to pick up items and use them accordingly. The game will keep track of the players’ name and score (time taken for the player to complete the game), and this information will be transferred to a database and will be displayed. The results would be displayed in ranking form where the person who completed the game the fastest would be inscripted on top. Additionally, this game is designed to be completed in a specific period of time frame, which is 15 mins. 
 
 
 ## Success Criteria
@@ -26,8 +30,8 @@ This game is created using python because it is the only language I am familiar 
 2. The game must record the time played.
 3. The game must record the player name and score.
 4. Display rankings; name of player and score
-5. Checkpoint for saving the progress of the player
-6. Add time limit of 30 mins
+5. Inventory system to secure items obtained by player
+6. Add time limit of 15 mins
 
 # Criteria B: Design
 
