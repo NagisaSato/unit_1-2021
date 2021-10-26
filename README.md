@@ -75,4 +75,4 @@ This is the flow chart of the recording of the data, name and time taken for use
 | 14      | All criteria B resources posted on Github  | All areas of criteria B are posted on Github, in the right location and format                                        | 30 mins       | Oct 25                 | -         |
 | 15      | Confirm requirements (success criteria)    | Check whether all six criteria listed are met in the code, if not make necessary adjustments                          | 30 mins       | Oct 25                 | C         |
 | 16      | Paste MVP code on Github                   | Post the code on Github at the very end of the page.                                                                  | 10 mins       | Oct 26                 | -         |
-| 17      | Review all submissions on the Github page  | Have all necessary information in the page, organized and finalized   
+| 17      | Review all submissions on the Github page  | Have all necessary information in the page, organized and finalized                                                   | 30 mins       | Oct 26                 | -         |
