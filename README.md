@@ -56,7 +56,7 @@ Flow chart 3:
 This is the flow chart of the recording of the data, name and time taken for user to complete the game. Additionally, it determines whether the player has completed the game in time or not. The data is printed in an external file. 
 ***** the scenario of the game is set as stop and clean time, 13:10, and the program displays the time taken, as well as the time in reference to 13:10
 
-##Test plan
+## Test plan
 
 | Description                                                      | Type                | Inputs                                                                                                             | Expected output                                                                                                                                                                                                              |
 |------------------------------------------------------------------|---------------------|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -84,3 +84,7 @@ This is the flow chart of the recording of the data, name and time taken for use
 | 15      | Confirm requirements (success criteria)    | Check whether all six criteria listed are met in the code, if not make necessary adjustments                          | 30 mins       | Oct 25                 | C         |
 | 16      | Paste MVP code on Github                   | Post the code on Github at the very end of the page.                                                                  | 10 mins       | Oct 26                 | -         |
 | 17      | Review all submissions on the Github page  | Have all necessary information in the page, organized and finalized                                                   | 30 mins       | Oct 26                 | -         |
+
+
+
+## MVP code
