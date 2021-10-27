@@ -89,6 +89,8 @@ This is the flow chart of the recording of the data, name and time taken for use
 
 ### MVP code
 
-[]! adventure_game.py
+Refer to file:
+adventure_game.py in this repository.
+
 
 
